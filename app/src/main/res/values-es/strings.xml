@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="check">Comprueba</string>
+    <string name="question">Pregunta</string>
+    <array name="answers">
+        <item>Copenhague</item>
+        <item>Oslo</item>
+        <item>Helsinki</item>
+        <item>Ninguna de las anteriores</item>
+    </array>
+    <string name="correct_ans">Respuesta correcta !</string>
+    <string name="incorrect_ans">Respuesta incorrecta :(</string>
+    <string name="no_ans">Selecciona una respuesta</string>
+    <string name="next">Siguiente</string>
+    <string name="finish">Acabar</string>
+    <string name="prev">Anterior</string>
+    <array name="all_questions">
+        <item>Cuál és la capital de Dinamarca ?;*Copenhagen;Helsinki;Oslo;Ninguna de las anteriores</item>
+        <item>Cuántos minutos tiene un año ?;410867;755920;*525600;Ninguna de las anteriores</item>
+        <item>Cuál es el rio más largo del mundo ?;Nilo;*Amazonas;Yangtsé;Ninguna de las anteriores</item>
+    </array>
+    <string name="results">Resultados</string>
+    <string name="start_over">Reiniciar</string>
+</resources>

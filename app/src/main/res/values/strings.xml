@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">Multi Quiz Pro</string>
+    <string name="check">Check</string>
+    <string name="question">Question</string>
+    <string name="correct_ans">Correct answer !</string>
+    <string name="incorrect_ans">Incorrect answer :(</string>
+    <string name="no_ans">Select an answer</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="prev">Previous</string>
+    <string name="results">Results</string>
+    <string name="start_over">Restart</string>
+
+    <array name="all_questions">
+        <item>What is the capital of Denmark ?;*Copenhagen;Helsinki;Oslo;None of the previous</item>
+        <item>How many minutes are there in a year ?;410867;755920;*525600;None of the previous</item>
+        <item>Which is the longest river in the world ?;Nile;*Amazonas;Yangtsé;None of the previous</item>
+    </array>
+
+</resources>
